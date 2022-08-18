@@ -41,7 +41,7 @@ Input these 😁
 
 Send #Dogecoin from any exchange to your wallet and bridge to #dogechain 
 
-- 😊Go to: https://dogechainx.dog/
+- 😊Go to: [https://dogechainx.dog/](https://dogechainx.dog/)
 
 - 😁 Connect Wallet (Be in DogeChain Network) 
 
@@ -65,7 +65,7 @@ Send #Dogecoin from any exchange to your wallet and bridge to #dogechain
 # Swap 
 
 💰 Swap your shitcoins using 
-  https://dogeswap.org
+  [https://dogeswap.org](https://dogeswap.org)
 
 Good luck and I pray 
 @elonmusk
