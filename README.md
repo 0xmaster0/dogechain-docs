@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## Getting Started with DogeChain
 
-You can use the [editor on GitHub](https://github.com/0xmaster0/dogechain-docs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+how to  add #Dogechain to your metamask, bridge to wdoge and trade. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🙄 It may seem that the Doge blockchain is actually on hype now and many shitcoins doing xxxx. 
 
-### Markdown
+Don’t forget they are still useless shitcoin that will die. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Be careful buying them. Read down 👇
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Add to Metamask
 
-1. Numbered
-2. List
+To add #Dogechain, open your metamask Goto settings and Goto network and add network. 
 
-**Bold** and _Italic_ and `Code` text
+Input these 😁
 
-[Link](url) and ![Image](src)
-```
+- 🚀 Network Name: DogeChain 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- 🚀 RPC URL: http://rpc01-sg.dogechain.dog 
 
-### Jekyll Themes
+- 🚀 Chain ID: 2000
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0xmaster0/dogechain-docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 🚀 Currency Symbol: wDOGE 
 
-### Support or Contact
+- 🚀 Block Explorer URL (Optional): http://explorer.dogechain.dog
+ 
+ 
+ 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Bridge 
+
+
+Send #Dogecoin from any exchange to your wallet and bridge to #dogechain 
+
+- 😊Go to: https://dogechainx.dog/
+
+- 😁 Connect Wallet (Be in DogeChain Network) 
+
+<img width="889" alt="image" src="https://user-images.githubusercontent.com/105165375/185283833-27d3d89b-bef0-4232-ba06-27cd21717c52.png">
+
+- 🤗 Choose the Account you want to connect, then “Next” 
+
+- 😎 Click “Connect” 
+
+- 😁 Go back to bridge website and click “Confirm”
+
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/105165375/185283868-d0b69a7f-af6b-4dc7-97f9-8f59f319daab.png">
+
+## Send $DOGE to DogeChain from FTX or CEX 
+
+<img width="745" alt="image" src="https://user-images.githubusercontent.com/105165375/185283967-8c996682-1bde-4b41-827c-4697933c143b.png">
+
+
+
+
+# Swap 
+
+💰 Swap your shitcoins using 
+  https://dogeswap.org
+
+Good luck and I pray 
+@elonmusk
+ and 
+@BillyM2k
+ pump your bags.
