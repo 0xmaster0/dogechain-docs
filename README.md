@@ -23,13 +23,13 @@ Input these 😁
 
 - 🚀 Network Name: DogeChain 
 
-- 🚀 RPC URL: http://rpc01-sg.dogechain.dog 
+- 🚀 RPC URL: [https://rpc01-sg.dogechain.dog](https://rpc01-sg.dogechain.dog ) 
 
 - 🚀 Chain ID: 2000
 
 - 🚀 Currency Symbol: wDOGE 
 
-- 🚀 Block Explorer URL (Optional): http://explorer.dogechain.dog
+- 🚀 Block Explorer URL (Optional): [https://explorer.dogechain.dog](https://explorer.dogechain.dog)
  
  <img width="878" alt="image" src="https://user-images.githubusercontent.com/105165375/185284106-648b9d86-edd6-49f8-bbee-8550fe04e9d0.png">
 
