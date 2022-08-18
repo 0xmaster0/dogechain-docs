@@ -1,4 +1,7 @@
-## Getting Started with DogeChain
+## Getting Started with DogeChain 🐶 🐶
+
+
+![Image](https://images-ext-2.discordapp.net/external/sBzASboXVo9XzHFaQ5_x49jbLcZ3Vxj9NLkIzZeP3-0/https/pbs.twimg.com/media/FR-e7mxaQAEAsdu.jpg)
 
 [👉 online](https://0xmaster0.github.io/dogechain-docs/)
 
